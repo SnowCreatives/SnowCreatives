@@ -13,7 +13,7 @@
 ---
 
 ### 👤 About Me
-- 🖥️ **Focus:** Python Development & UI/UX Design.
+- 🖥️ **Focus:** Full-Stack Development & UI/UX Design.
 - 🏢 **Organization:** Founder at **Vossenhardt**.
 - 🛡️ **Current Status:** Working on classified internal systems.
 - ⚡ **Goal:** Building the next generation of creative tools.
