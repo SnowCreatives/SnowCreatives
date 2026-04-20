@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i= python,js,html,css,canva,photopea.
+### My Tech Stack
+[![My Skills](https://skill-icons.app/icons?i=py,js,html,css,figma,canvas)](https://skill-icons.app)
+![Status do LegacySnow](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
