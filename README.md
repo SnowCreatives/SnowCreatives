@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My Tech Stack
-[![My Skills](https://skill-icons.app/icons?i=py,js,html,css,figma,canvas)](https://skill-icons.app)
+### My Tech Stack 
 ![Status do LegacySnow](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
