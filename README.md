@@ -1,21 +1,48 @@
-## SnowCreatives
+# Hi, I'm LegacySnow ❄️
 
-<!--
-**SnowCreatives/SnowCreatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skill-icons.app/icons?i=py,js,html,css,figma,bot&theme=dark" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### My Tech Stack 
-![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
+### 👤 About Me
+- 🖥️ **Focus:** Python Development & UI/UX Design.
+- 🏢 **Organization:** Founder at **Vossenhardt**.
+- 🛡️ **Current Status:** Working on classified internal systems.
+- ⚡ **Goal:** Building the next generation of creative tools.
 
-### My Domins
-![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skill-icons.app">
+    <img src="https://skill-icons.app/icons?i=python,vscode,github,canvas,figma,discord&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats do LegacySnow" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowCreatives&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180px"/>
+</p>
+
+---
+
+### 🕵️ Ongoing Projects
+- **[REDACTED]**: 
+  - *Status:* In Development (Internal Alpha).
+  - *Description:* A high-level system for logic optimization and creative automation.
+  - *Access:* Private.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+<p align="right">
+  <i>"The best way to predict the future is to code it."</i>
+</p>
