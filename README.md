@@ -1,4 +1,4 @@
-## Hi there 👋
+## SnowCreatives
 
 <!--
 **SnowCreatives/SnowCreatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Tech Stack 
-![Status do LegacySnow](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
+![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
+
+### My Domins
+![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&theme=dark)
