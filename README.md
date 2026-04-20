@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
 
 ### My Domins
-![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&theme=dark)
+![Status of SnowCreatives](https://github-readme-stats.vercel.app/api?username=SnowCreatives&show_icons=true&theme=dark)
