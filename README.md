@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skill-icons.app">
-    <img src="https://skill-icons.app/icons?i=python,vscode,github,canvas,figma,discord&perline=6" />
+    <img src="https://skill-icons.app/icons?i=python,html,css,javascript,vscode,github,canva,figma,discord&perline=6" />
   </a>
 </p>
 
