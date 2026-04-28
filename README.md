@@ -1,5 +1,5 @@
 # Hi, I'm LegacySnow ❄️
-<img src="<img width="2560" height="1440" alt="LegacySnow" src="https://github.com/user-attachments/assets/1f685f52-dd2c-4e98-9c59-f609020c830b" alt="Banner pro Github" style="display: block; margin: 0 auto; width: 100%; height: 75px; width: 1000px;">
+<img width="2560" height="1440" alt="LegacySnow" src="https://github.com/user-attachments/assets/1f685f52-dd2c-4e98-9c59-f609020c830b" alt="Banner pro Github" style="display: block; margin: 0 auto; width: 100%; height: 100px; width: 1000px;">
 <p></p>
 <table align="center">
   <tr>
