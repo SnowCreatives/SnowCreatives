@@ -1,6 +1,6 @@
 # Hi, I'm LegacySnow ❄️
-<img width="468" height="60" alt="Banner pro GitHub" src="https://github.com/user-attachments/assets/f6bee8a7-8f6f-42f9-86a8-7ac503a2c73c" />
-
+<img width="1000" height="1000" alt="Banner pro GitHub" src="https://github.com/user-attachments/assets/f6bee8a7-8f6f-42f9-86a8-7ac503a2c73c" />
+<p></p>
 <table align="center">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
