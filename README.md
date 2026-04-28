@@ -1,5 +1,6 @@
 # Hi, I'm LegacySnow ❄️
-<img src="blob:https://gemini.google.com/837ce367-74db-4f43-8661-a88d12f37c03" width="100%">
+<img src="<img width="468" height="60" alt="Banner pro GitHub" src="https://github.com/user-attachments/assets/f6bee8a7-8f6f-42f9-86a8-7ac503a2c73c" />
+ width="100%">
 
 <table align="center">
   <tr>
