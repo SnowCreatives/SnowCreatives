@@ -1,5 +1,5 @@
 # Hi, I'm LegacySnow ❄️
-<img src="blob:https://www.photopea.com/cc61bfdf-c428-43df-80aa-3586aceaa59d.png" width="100%">
+<img src="blob:https://gemini.google.com/837ce367-74db-4f43-8661-a88d12f37c03" width="100%">
 
 <table align="center">
   <tr>
